@@ -16,13 +16,11 @@ public class SampleDemo {
 		System.out.println("iam kane......");
 		System.out.println("kjhggffff");
 		
-<<<<<<< HEAD
 
-=======
 		System.out.println("i dont know ..i dont know......");
 		
 		
->>>>>>> branch 'FourthBranch' of https://github.com/gittasrikanth/StudentProject.git
+
 		
 		
 	}
