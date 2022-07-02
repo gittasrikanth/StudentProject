@@ -7,6 +7,9 @@ public class StudentClass {
 		System.out.println("this is sample application......");
 		
 		System.out.println("this is sharath kumar....");
+		
+		
+		System.out.println("This is simple java program.....");
 	}
 
 }
