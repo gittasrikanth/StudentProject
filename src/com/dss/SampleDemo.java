@@ -6,6 +6,8 @@ public class SampleDemo {
 		
 		
 		System.out.println("hi this is sharath from hyd...");
+		
+		System.out.println("Hi my name is john cena.....");
 	}
 
 }
